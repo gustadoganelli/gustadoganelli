@@ -7,9 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gabriel-doganelli-208087276)
 [![Website](https://img.shields.io/badge/doganelliautomacoes.pages.dev-0b1628?style=for-the-badge&logo=cloudflarepages&logoColor=F38020)](https://doganelliautomacoes.pages.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustadoganelli/portfolio)
-<!-- CONFIRM: WhatsApp badge once the link is available
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/YOUR_LINK)
--->
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511939333779&text=Hi%20Gustavo!%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20talk%20about%20a%20project.)
 
 </div>
 
@@ -76,6 +74,7 @@ My background is in financial operations: accounts payable and receivable, treas
 
 - 💼 LinkedIn: [gustavo-gabriel-doganelli](https://www.linkedin.com/in/gustavo-gabriel-doganelli-208087276)
 - 🌐 Website: [doganelliautomacoes.pages.dev](https://doganelliautomacoes.pages.dev)
+- 💬 WhatsApp: [+55 11 93933-3779](https://api.whatsapp.com/send?phone=5511939333779&text=Hi%20Gustavo!%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20talk%20about%20a%20project.)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:0b1628&height=90&section=footer" width="100%" alt="">
