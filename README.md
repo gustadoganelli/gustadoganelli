@@ -174,6 +174,14 @@ I pair-program with AI almost every day. This card is generated from my local Cl
   <img alt="Claude Code activity: an orange snake eats the days I worked with Claude Code" src="https://raw.githubusercontent.com/gustadoganelli/gustadoganelli/claude-activity/claude-activity.svg" width="100%">
 </p>
 
+## 📚 Learning
+
+I keep studying on Alura: every course has hands-on exercises and ends with a public certificate. Click the card to see every certificate.
+
+<p align="center">
+  <a href="https://github.com/gustadoganelli/gustadoganelli/blob/claude-activity/LEARNING.md"><img alt="Learning on Alura: courses completed, exercises solved, career paths and the latest certificates" src="https://raw.githubusercontent.com/gustadoganelli/gustadoganelli/claude-activity/alura-learning.svg" width="100%"></a>
+</p>
+
 ## 📫 Contact
 
 - 💼 LinkedIn: [gustavo-gabriel-doganelli](https://www.linkedin.com/in/gustavo-gabriel-doganelli-208087276)
