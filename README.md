@@ -91,7 +91,9 @@ My background is in financial operations: accounts payable and receivable, treas
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![RAG with pgvector](https://img.shields.io/badge/RAG_%2B_pgvector-0F172A?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=anthropic&logoColor=white)
-&nbsp;AI agents · LLM automations · generative AI applied to processes
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjQiIHk9IjgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxMiIgcng9IjMiLz48cGF0aCBkPSJNMTIgOFY1Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIzLjUiIHI9IjEuNSIvPjxjaXJjbGUgY3g9IjkiIGN5PSIxNCIgcj0iMS4zIiBmaWxsPSJ3aGl0ZSIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iMTQiIHI9IjEuMyIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMiAxM3YzTTIyIDEzdjMiLz48L3N2Zz4%3D)
+![LLM Automations](https://img.shields.io/badge/LLM_Automations-0E7490?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMyAyIDQgMTRoN2wtMSA4IDktMTJoLTd6Ii8%2BPC9zdmc%2B)
+![Generative AI applied to processes](https://img.shields.io/badge/Generative_AI_for_processes-BE185D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMSAzbDIuMiA2LjNMMTkuNSAxMS41bC02LjMgMi4yTDExIDIwbC0yLjItNi4zTDIuNSAxMS41bDYuMy0yLjJ6Ii8%2BPHBhdGggZD0iTTE5IDJsLjggMi4yTDIyIDVsLTIuMi44TDE5IDhsLS44LTIuMkwxNiA1bDIuMi0uOHoiLz48L3N2Zz4%3D)
 
 ## 🚀 Featured projects
 
@@ -157,15 +159,19 @@ My background is in financial operations: accounts payable and receivable, treas
 </p>
 
 <p align="center">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/gustadoganelli/gustadoganelli/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustadoganelli/gustadoganelli/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustadoganelli/gustadoganelli/output/github-snake.svg">
     <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/gustadoganelli/gustadoganelli/output/github-snake-dark.svg">
   </picture>
+</p>
+
+## 🤖 Claude Code activity
+
+I pair-program with AI almost every day. This card is generated from my local Claude Code session logs (daily counts only, no content) and refreshed every day.
+
+<p align="center">
+  <img alt="Claude Code activity: an orange snake eats the days I worked with Claude Code" src="https://raw.githubusercontent.com/gustadoganelli/gustadoganelli/claude-activity/claude-activity.svg" width="100%">
 </p>
 
 ## 📫 Contact
